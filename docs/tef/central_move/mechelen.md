@@ -4,19 +4,19 @@ title: Mechelen
 
 ## Overview
 
-_Provide a brief overview of the TEF Site, including its location, objectives, and role within the CitCom.ai ecosystem. Describe any relevant background information that stakeholders might find helpful._
+The testing zone is located in Malines (Mechelen), a mid-sized town in Belgium. The scope of the testing zone is on soft mobility (e.g. cycling), safety and urban logistics. The leading partner is municipality of Malines, supported by imec and Digitaal Vlaanderen. 
 
-Example:
-
-The [TEF Site Name] is located in [City, Country] and is dedicated to advancing research and development in [relevant domain]. This site is equipped with state-of-the-art infrastructure and is a key site in the CitCom.ai project, facilitating collaboration between cities and comunities, industrial partners (AI innovators) and research institutions.
+Innovators have a willing city government that can offer their city's characteristics, infrastructure and relevant datasets to develop, test and or validate their solutions. All data is standardised and offered to innovators through a data platform .
 
 ## Services Offered
 
 List the services available at the TEF Site related to the CitCom.ai Services Catalog. Provide a brief description of each service, and include any relevant links or documentation.
 
-- **Service 1**: [Description of Service 1]
-- **Service 2**: [Description of Service 2]
-- **Service 3**: [Description of Service 3]
+- **Access to mobility and logistic data**: Get temporary access to Mechelen's mobility and logistics historic and real-time datasets
+- **Install and/or test novel solutions**: The city of Mechelen is at your disposal if you're looking for real urban environments to test your solution or capture data
+- **Assistance in the procurement and adminstrative process**: To ensure adherence to regulatory requirements when organizing an experiment in the city, the municipality is dedicated to guide you in the procedure(s)
+- **Edge AI box - static**: To be further specified once operational
+- **Edge AI box - mobile**: To be further specified once operational
 
 ## Infrastructure Components
 
@@ -88,7 +88,8 @@ Provide a list of the key stakeholders and partners involved in the TEF Site. In
 
 Provide contact details for those responsible for the TEF Site or who can provide more information to collaborators or users.
 
-- **Site Coordinator**: [Name and contact details]
+- **TEF Belgium Coordinator**: [Thomas De Meester, thomas.demeester@imec.be]
+- **Site Coordinator**: [Roos Lowette, roos.lowette@mechelen.be]
 - **Technical Support**: [Name and contact details]
 - **General Inquiries**: [Name and contact details]
 
